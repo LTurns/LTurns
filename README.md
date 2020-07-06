@@ -5,7 +5,7 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 
 Other qualities include: dog person & cat person, a fan of the US Office and Peep Show, sociable and empathetic, a supportive and easy-going team player and a very hard worker. I have also been said to be a quick learner and thick-skinned (learned from my time in sales!).
 
-[Projects](#projects) || [Skills](#skills) || [Employment Experience](#employment-experience) || [Education](#education)
+[Projects](#-projects) || [Skills](#-skills) || [Employment Experience](#-employment-experience) || [Education](#-education)
 
 
 #Projects
