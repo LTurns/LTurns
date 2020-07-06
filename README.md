@@ -11,7 +11,7 @@ Other qualities include: dog person & cat person, a fan of the US Office and Pee
 # Projects
 
 |Project|Summary|Team Size|Time|Tech Stack|Testing|
-|---:|---:|---:|---:|---:|---:|
+|:---|:---|:---|:---|:---|:---|
 |Run Boris Run| A game to both teach and entertain! This game educates young children on the importance of social distancing, but it could also be played simply to be enjoyed.|6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|
 |Row 2 Column1| Row 2 Column 2| Row 2 Column 3|
 
