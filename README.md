@@ -10,7 +10,7 @@ Other qualities include: dog person & cat person, a fan of the US Office and Pee
 
 # Projects
 
-### Makers Projects ###
+### Makers Academy Projects ###
 
 |Project|Summary|Team Size|Time|Tech Stack|Testing|
 |:---|:---|:---|:---|:---|:---|
@@ -21,7 +21,7 @@ Other qualities include: dog person & cat person, a fan of the US Office and Pee
 |Bowling Challenge|
 |Chitter Challenge|
 
-### Individual Personal Projects ###
+### Personal Projects ###
 
 |Project|Summary|Time|Tech Stack|Testing|
 |:---|:---|:---|:---|:---|
