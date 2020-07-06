@@ -26,7 +26,7 @@ Other qualities include: dog person & cat person, a fan of the US Office and Pee
 |Project|Summary|Time|Tech Stack|Testing|
 |:---|:---|:---|:---|:---|
 
-<!-- use thermostat to include weather API and design - then put this in personal projects -->
+ use thermostat to include weather API and design - then put this in personal projects
 
 
 # Skills
