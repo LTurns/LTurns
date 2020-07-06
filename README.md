@@ -8,7 +8,7 @@ Other qualities include: dog person & cat person, a fan of the US Office and Pee
 [Projects](#-projects) || [Skills](#-skills) || [Employment Experience](#-employment-experience) || [Education](#-education)
 
 
-#Projects
+# Projects
 
 
 -
@@ -42,8 +42,8 @@ Other qualities include: dog person & cat person, a fan of the US Office and Pee
 
 
 
-#skills
+# Skills
 
-#Employment Experience
+# Employment Experience
 
-#Education
+# Education
