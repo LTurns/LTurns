@@ -10,6 +10,38 @@ Other qualities include: dog person & cat person, a fan of the US Office and Pee
 
 #Projects
 
+
+-
+
+-
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+-
+
+
+
+
+
 #skills
 
 #Employment Experience
