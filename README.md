@@ -11,24 +11,18 @@ Other qualities include: dog person & cat person, a fan of the US Office and Pee
 # Projects
 
 ### Makers Academy Projects ###
-<font size="1">
 |Project|Summary|SnapShot|Team Size|Time|Tech Stack|Testing|Personal Highlights|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-</font>
-<font size="2">
 |Run Boris Run Deployment: [https://run-boris-run.netlify.app/](https://run-boris-run.netlify.app/) | This game educates young children on the importance of social distancing, but it could also be played simply for light-hearted entertainment!|<img src="./run_boris_run.png" width="100" height="50" /> |6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|
-</font>
-<font size="3">
-|Acebook| A modern, minimalist facebook clone with similar capabilities.| <img src="./acebook.png" width="100" height="50" />|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning the popular javascript framework Node within the 2 week time-frame was a real challenge, and great fun! The team dynamic was also wonderful.|
-</font>
-|Thermostat| | | |//Involve my city front-end design for this one|
-|Makers Air BnB|
-|Bowling Challenge|
+|Acebook| A modern, minimalist facebook clone with similar capabilities.| <img src="./acebook.png" width="100" height="50" />|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning the popular javascript framework, Node, within the 2 weeks & being part of a fabulous team.|
+|Makers Air BnB| A variation of the popularly used site "Air BnB"|"snapshot"|6|Ruby, Sinatra, HTML/CSS, PostgreSQL, Bcrypt |RSpec, Capybara, SimpleCov(formatting)|
+|Bowling Challenge| An online calculator for keeping score of your bowling game| |1|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY|
 
 ### Personal Projects ###
 
 |Project|Summary|Time|Tech Stack|Testing|
 |:---|:---|:---|:---|:---|
+|Thermostat| | | |//Involve my city front-end design for this one|
 
  use thermostat to include weather API and design - then put this in personal projects
 
