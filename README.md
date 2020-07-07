@@ -94,7 +94,7 @@ Dissertation: 'literature as a discriminative or biased force when presenting a 
 
 #### Hobbies ####
 
-- Composing music and having a sing-song
+- Composing music
 - Endless brunches or pub lunches
 - Tennis with friends
 - Listening to vinyl records from the golden oldies
