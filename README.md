@@ -14,7 +14,7 @@ Other qualities include: dog person & cat person, a fan of the US Office and Pee
 
 |Project|Summary|SnapShot|Team Size|Time|Tech Stack|Testing|Personal Highlights|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|Run Boris Run| This game educates young children on the importance of social distancing, but it could also be played simply for light-hearted entertainment!|<img src="./run_boris_run.png" width="100" height="100" /> |6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|
+|Run Boris Run Deployment: [https://run-boris-run.netlify.app/](https://run-boris-run.netlify.app/) | This game educates young children on the importance of social distancing, but it could also be played simply for light-hearted entertainment!|<img src="./run_boris_run.png" width="150" height="100" /> |6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|
 |Acebook| Row 2 Column 2| Row 2 Column 3|
 |Thermostat| | | |//Involve my city front-end design for this one|
 |Makers Air BnB|
