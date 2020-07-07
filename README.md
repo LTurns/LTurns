@@ -13,7 +13,7 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 |:---|:---|:---|:---|:---|:---|:---|:---|
 |[Run Boris Run](https://github.com/LTurns/Covid_Game) Deployment: [https://run-boris-run.netlify.app/](https://run-boris-run.netlify.app/) | Boris sets out to get milk, while facing the trials of lockdown and social distancing.|<img src="./run_boris_run.png" width="100" height="50" /> |6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|Bringing this idea to life was a whirlwind of creativity!|
 |[Acebook](https://github.com/LTurns/Node4Code)| A modern, minimalist facebook clone with similar capabilities.| <img src="./acebook.png" width="100" height="50" />|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning Node within 2 weeks & being part of a great team was wonderful.|
-<!-- |[Makers AirBnB](https://github.com/LTurns/makersBnB)| A variation of the popularly used site "Air BnB"|"snapshot"|6|2 Weeks|Ruby, Sinatra, HTML/CSS, PostgreSQL, Bcrypt |RSpec, Capybara, SimpleCov(formatting)| I developed and solidified my Ruby skills| -->
+|[Makers AirBnB](https://github.com/LTurns/makersBnB)| A variation of the popularly used site "Air BnB"|"snapshot"|6|2 Weeks|Ruby, Sinatra, HTML/CSS, PostgreSQL, Bcrypt |RSpec, Capybara, SimpleCov(formatting)| I developed and solidified my Ruby skills|
 |[Bowling Calculator](https://github.com/LTurns/bowling-challenge)| An online calculator for keeping score of your bowling game|<img src="./bowling_calculator.png" width="100" height="50" />  |1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY|
 
 <!-- ### Personal Projects ###
