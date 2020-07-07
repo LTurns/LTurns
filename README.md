@@ -3,7 +3,7 @@
 
 Junior full-stack developer with an entrepreneurial flair for creating eye-catching web apps! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator (except when the term "groovy" occasionally slips out). I have experience in front-end, back-end, test-driven and database technologies. I lean towards front-end design due to the scope of creativity it allows. However, I enjoy every aspect of a full-stack code base and embrace every opportunity to improve my skills.
 
-[Projects](#-projects) || [Skills](#-skills) || [Employment Experience](#-employment-experience) || [Education](#-education)
+[PROJECTS](#-projects) || [SKILLS](#-skills) || [EMPLOYMENT EXPERIENCE](#-employment-experience) || [EDUCATION](#-education) || [HOBBIES](#-Hobiies)
 
 
 # Projects
@@ -92,7 +92,7 @@ Dissertation: 'literature as a discriminative or biased force when presenting a 
 - Merit
 - Part time job at Ashbourne Private School in Kensington
 
-#### Hobbies ####
+# Hobbies
 
 - Composing music
 - Endless brunches or pub lunches
