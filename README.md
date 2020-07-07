@@ -14,8 +14,8 @@ Other qualities include: dog person & cat person, a fan of the US Office and Pee
 
 |Project|Summary|SnapShot|Team Size|Time|Tech Stack|Testing|Personal Highlights|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|Run Boris Run| This game educates young children on the importance of social distancing, but it could also be played simply for light-hearted entertainment!|<img src="./run_boris_run.png" width="100" height="100" /> |6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|
-|Acebook| Row 2 Column 2| Row 2 Column 3|
+|Run Boris Run| This game educates young children on the importance of social distancing, but it could also be played simply for light-hearted entertainment!|<img src="./run_boris_run.png" width="100" height="50" /> |6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|
+|Acebook| A modern, minimalist facebook clone with similar capabilities.| <img src="./acebook.png" width="100" height="50" />|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning the popular javascript framework Node within the 2 week time-frame was a real challenge, and great fun! The team dynamic was also wonderful.|
 |Thermostat| | | |//Involve my city front-end design for this one|
 |Makers Air BnB|
 |Bowling Challenge|
