@@ -29,7 +29,7 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 
 # Employment Experience
 
-**Goji Investment Services** (May 2019 to April 2020)  
+**Goji Investment Services** (May 2019 to March 2020)  
 
 *Senior Operations Executive*  
 - Consult with our clientele of Investment Managers on a daily basis
@@ -42,7 +42,8 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 - Train junior employees
 
 **Leyton UK** (February 2018 to May 2019)   
-*Major Accounts Executive* (February
+
+*Major Accounts Executive*
 - In charge of the international cross-selling initiative for UK office
 - Developed a deeper understanding of R&D Tax and other UK tax schemes
 - Selling the optimisation of R&D Tax Claims to prospects
@@ -51,7 +52,7 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 - Interviewing future employees
 - Achieving sales metrics and revenue targets
 
--*Commerical Executive*
+-*Commercial Executive*
 - Finding company prospects
 - Pitching our tax services
 - Achieving monthly metrics and targets
@@ -59,17 +60,18 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 
 **Empire Design** (July 2017 - February 2018)
 *Runner and Office Assistant*
+- A taster of working for a film/post-production company
 - In charge of general office administration
 - Took the hard drives to Universal Studios
 
 # Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2020 - July 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Sinatra, JavaScript, Node, MongoDB, PostgreSQL
+- RSpec, Jasmine, Capybara, Jest, Cypress
 
 #### University of Birmingham (2012 to 2015)
 
@@ -77,23 +79,23 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 Dissertation: 'literature as a discriminative or biased force when presenting a disabled character.'
 - 2:1
 - Captained the Girls Squash Team - BUCS Champions
-- Had a radio show called“Blondies Breakfast”on Burn FM (Birmingham Radio Station)
+- Had a radio show called “Blondies Breakfast” on Burn FM (Birmingham Radio Station)
 - Writer for the University Tab
-- Part time job at the student union
+- Part time job at the Student Union
 
 #### University of Westminster (2016 to 2017)
 
 - Audio Technology, Audio-Visual works on Trailers, Short Films and Animations
-- Utilised WWise - an interactive audio solution for games
-- Use of XD and Adobe Animate for constructing application prototype
+- Utilised WWise - an interactive audio solution for games and applications
+- Use of XD and Adobe Animate for constructing application prototypes
 - Merit
-- Part time job at a Private School in Kensington
+- Part time job at Ashbourne Private School in Kensington
 
 #### Hobbies ####
 
 - Composing music and having a sing-song
 - Endless brunches or pub lunches
 - Tennis with friends
-- Listening to vinyl records from the golden oldies 
+- Listening to vinyl records from the golden oldies
 
 Other qualities include: dog person & cat person, a fan of the US Office and Peep Show, sociable and empathetic, a supportive and easy-going team player and a very hard worker. I have also been said to be a quick learner and thick-skinned (learned from my time in sales!).
