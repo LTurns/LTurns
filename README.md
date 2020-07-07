@@ -11,10 +11,10 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 ### Makers Academy Projects ###
 |Project|Summary|SnapShot|Team Size|Time|Tech Stack|Testing|Personal Highlights|
 |:---|:---|:---|:---|:---|:---|:---|:---|
-|[Run Boris Run](https://github.com/LTurns/Covid_Game) Deployment: [https://run-boris-run.netlify.app/](https://run-boris-run.netlify.app/) | Boris sets out to get milk, while facing the trials of lockdown and social distancing.|<img src="./run_boris_run.png" width="100" height="50" /> |6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|Thought of this fun idea a while ago, and bringing it to life was a whirlwind of creativity!|
-|Acebook| A modern, minimalist facebook clone with similar capabilities.| <img src="./acebook.png" width="100" height="50" />|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning the popular javascript framework, Node, within 2 weeks & being part of a fabulous team.|
-|Makers Air BnB| A variation of the popularly used site "Air BnB"|"snapshot"|6|2 Weeks|Ruby, Sinatra, HTML/CSS, PostgreSQL, Bcrypt |RSpec, Capybara, SimpleCov(formatting)| Developing and solidifying my Ruby skills|
-|Bowling Calculator| An online calculator for keeping score of your bowling game|<img src="./bowling_calculator.png" width="100" height="50" />  |1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY|
+|[Run Boris Run](https://github.com/LTurns/Covid_Game) Deployment: [https://run-boris-run.netlify.app/](https://run-boris-run.netlify.app/) | Boris sets out to get milk, while facing the trials of lockdown and social distancing.|<img src="./run_boris_run.png" width="100" height="50" /> |6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|Bringing this idea to life was a whirlwind of creativity!|
+|[Acebook](https://github.com/LTurns/Node4Code)| A modern, minimalist facebook clone with similar capabilities.| <img src="./acebook.png" width="100" height="50" />|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning Node within 2 weeks & being part of a great time was wonderful.|
+|[Makers AirBnB](https://github.com/LTurns/makersBnB)| A variation of the popularly used site "Air BnB"|"snapshot"|6|2 Weeks|Ruby, Sinatra, HTML/CSS, PostgreSQL, Bcrypt |RSpec, Capybara, SimpleCov(formatting)| Developing and solidifying my Ruby skills|
+|[Bowling Calculator](https://github.com/LTurns/bowling-challenge)| An online calculator for keeping score of your bowling game|<img src="./bowling_calculator.png" width="100" height="50" />  |1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY|
 
 ### Personal Projects ###
 
@@ -70,7 +70,7 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 #### Makers Academy (March 2020 - July 2020)
 
 - OOP, TDD, MVC, DDD
-- Agile/XP
+- Agile Development Process
 - Ruby, Sinatra, JavaScript, Node, MongoDB, PostgreSQL
 - RSpec, Jasmine, Capybara, Jest, Cypress
 
@@ -94,7 +94,7 @@ Dissertation: 'literature as a discriminative or biased force when presenting a 
 
 #### Hobbies ####
 
-- Composing music and having a sing-song
+- Composing music
 - Endless brunches or pub lunches
 - Tennis with friends
 - Listening to vinyl records from the golden oldies
