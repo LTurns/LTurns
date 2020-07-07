@@ -3,7 +3,7 @@
 
 Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator (except when the term "groovy" occasionally slips out). I have experience in front-end, back-end, test-driven and database technologies. I lean towards front-end design due to the scope of creativity it allows. However, I enjoy every aspect of a full-stack code base and embrace every opportunity to improve my skills.
 
-[PROJECTS](#-projects) || [SKILLS](#-skills) || [EMPLOYMENT EXPERIENCE](#-employment-experience) || [EDUCATION](#-education) || [HOBBIES](#-Hobiies)
+[PROJECTS](#-Projects) || [SKILLS](#-Skills) || [EMPLOYMENT EXPERIENCE](#-Employment-Experience) || [EDUCATION](#-Education) || [HOBBIES](#-Hobiies)
 
 
 # Projects
@@ -35,7 +35,7 @@ Technology is perhaps the most indispensable industry of our time. Therefore, be
 
 **Hard Worker:**
 
-Jumping from a "C" to an "A" for A level French, exceeding my predicted grades, County Squash Champion and Grade 8 Voice were some early examples of my ability to work hard to achieve more. In addition, I created a portfolio of sound design and got onto one of the best Audio Technology masters in the country, despite having no academic background in the subject.
+Jumping from a "C" to an "A" for A level French, exceeding my predicted grades, County Squash Champion and Grade 8 Voice were some early examples of my ability to work hard to achieve more. 
 
 Self-sufficiency has always been important to me. I wanted to do Makers Academy for over a year and was able to save and complete the course, all while paying rent and bills in London without financial help. When I come across a problem in my code, you can guarantee I will solve it. I find great satisfaction in seeing my hard work pay off, and technology is no exception. As someone who has worked in industries such as film, sales and finance, I know versatility and a strong work ethic, are essential.
 
