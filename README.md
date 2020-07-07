@@ -59,6 +59,7 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 - Maintaining sales momentum
 
 **Empire Design** (July 2017 - February 2018)
+
 *Runner and Office Assistant*
 - A taster of working for a film/post-production company
 - In charge of general office administration
