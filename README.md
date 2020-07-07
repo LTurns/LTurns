@@ -29,24 +29,33 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 
 # Employment Experience
 
-**Goji Investment Services** (May 2019 to April 2020)    
+**Goji Investment Services** (May 2019 to April 2020)  
+
 *Senior Operations Executive*  
-- Use of HTML on Mandrill
-- SQL for data analysis
-- Client facing position
-- KYC investors and complete reconciliation checks
-- Ensure consistent knowledge of the alternative investments industry
+- Consult with our clientele of Investment Managers on a daily basis
+- Occasionally utilise SQL to construct  and compile Redash data reports
+- Experience in CSS and HTML for drafting automated email templates in Mandril
+- Process due diligence (KYC, KYB, AML) for international, corporate and retail investors
+- Escalate any breaches or issues identified to the MLRO
+- Experience and knowledge in dealing with PEP/Sanctions
+- Preparing the CASS reconciliation and processing large client money movements
+- Train junior employees
 
 **Leyton UK** (February 2018 to May 2019)   
 *Major Accounts Executive* (February
-- Use of Salesforce
-- The ability to communicate to high-level professionals on the most valued accounts
-- Target and commission based - valued meritocracy
+- In charge of the international cross-selling initiative for UK office
+- Developed a deeper understanding of R&D Tax and other UK tax schemes
+- Selling the optimisation of R&D Tax Claims to prospects
+- Pitching our tax services to FTSE clients and large enterprises (over SMEs)
+- Training Junior Sales Executives
+- Interviewing future employees
+- Achieving sales metrics and revenue targets
 
 -*Commerical Executive*
-- Also target and commission based
-- strengthened core communication skills
-- tought and presented sales pitches to junior sales teams
+- Finding company prospects
+- Pitching our tax services
+- Achieving monthly metrics and targets
+- Maintaining sales momentum
 
 **Empire Design** (July 2017 - February 2018)
 *Runner and Office Assistant*
