@@ -18,14 +18,17 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 Over the last few years, I have established wonderful jobs within finance. I thoroughly enjoyed working in this industry, and believe it taught me unparalelled levels of professionalism and fuelled my initial interest in technology. Since then, coding has opened my mind to how technology truly influences and alters every aspect of our lives. I'm throroughly excited to be part of where it goes next!
 </p>
 
-<div align="center">
-   [PROJECTS](#chapter-1) || [SKILLS](#chapter-2) || [EMPLOYMENT EXPERIENCE](#-chapter-3) || [EDUCATION](#-chapter-4) || [HOBBIES](#-chapter-5)
- </div>
 
+   * [PROJECTS](#chapter-1)
+   * [SKILLS](#chapter-2)
+   * [EMPLOYMENT EXPERIENCE](#-chapter-3)
+   * [EDUCATION](#-chapter-4)
+   * [HOBBIES](#-chapter-5)
+<img src="./new_border.png" id="doodle"/></center>
 
 
 ## Projects <a name="chapter-1"></a>
-<div align="center">
+
 ### Makers Academy Projects ###
 |Project|Summary|SnapShot|Team Size|Time|Tech Stack|Testing|Personal Highlights|
 |:---|:---|:---|:---|:---|:---|:---|:---|
@@ -33,7 +36,6 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 |[Acebook](https://github.com/LTurns/Node4Code)| A modern, minimalist facebook clone with similar capabilities.| <img src="./acebook.png" width="100" height="50" />|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning Node within 2 weeks & being part of a great team was wonderful.|
 |[Makers AirBnB](https://github.com/LTurns/makersBnB)| A variation of the popularly used site "Air BnB"|-|6|2 Weeks|Ruby, Sinatra, HTML/CSS, PostgreSQL, Bcrypt |RSpec, Capybara, SimpleCov(formatting)| I developed and solidified my Ruby skills|
 |[Bowling Calculator](https://github.com/LTurns/bowling-challenge)| An online calculator for keeping score of your bowling game|<img src="./bowling_calculator.png" width="100" height="50" />  |1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY|
- </div>
 
 <!-- ### Personal Projects ###
 
