@@ -154,25 +154,3 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 - Listening to vinyl records from the golden oldies
 
 
-## Networks <a name="chapter-6"></a>
-
-
-<p align="center">
-<div style="text-align: center; letter-spacing: 50px">
-  <center>
-
-  <a href="https://medium.com/me/stories/public">
-  <img src="./medium.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-
-  <a href="https://github.com/LTurns">
-  <img src="./github.png" alt="medium" hspace="50" height="42" width="42"></a>
-
-  <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">
-  <img src="./linkedin.png" alt="medium" hspace="50" height="42" width="42"></a>
-  
-  </center>
-</div>
-</p>
-
-## Contact Details <a name="chapter-7"></a>
-
