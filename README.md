@@ -5,7 +5,7 @@
  <a href="https://medium.com/me/stories/public">Medium</a><a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">LinkedIn</a>
 </p>
 
-style>
+<style>
 #medium {padding: 20px}
 #linkedIn { padding: 20px}
 </style>
