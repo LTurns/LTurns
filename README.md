@@ -19,15 +19,14 @@ Over the last few years, I have established wonderful jobs within finance. I tho
  ## Contents
  
  
-|[PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|[HOBBIES](#chapter-5)|
+|[Favourite Projects](#chapter-1)|[SKILLS](#chapter-2)|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|[HOBBIES](#chapter-5)|
 |:---|:---|:---|:---|:---|
 
 
 
-## Projects <a name="chapter-1"></a>
+## Favourite Projects <a name="chapter-1"></a>
 
 
-### Favourite Projects ###
 |Project|Summary|SnapShot|Team Size|Time|Tech Stack|Testing|Personal Highlights|
 |:-:|:-:|:---|:-:|:-:|:-:|:-:|:---|
 |[Run Boris Run](https://github.com/LTurns/Covid_Game) Deployment: [https://run-boris-run.netlify.app/](https://run-boris-run.netlify.app/) | Boris sets out to get milk, while facing the trials of lockdown and social distancing.|<img src="./run_boris_run.png" width="100" height="50" /> |6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|Bringing this idea to life was a whirlwind of creativity!|
