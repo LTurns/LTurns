@@ -1,20 +1,5 @@
 # Lizzie Turney
 
-<div style="text-align: center; letter-spacing: 50px">
-  <center>
-
-  <a href="https://medium.com/me/stories/public">
-  <img src="./medium.png" alt="linkedin" hspace="50" height="42" width="42"></a>
-
-  <a href="https://github.com/LTurns">
-  <img src="./github.png" alt="medium" hspace="50" height="42" width="42"></a>
-
-  <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">
-  <img src="./linkedin.png" alt="medium" hspace="50" height="42" width="42"></a>
-  
-  </center>
-</div>
-
 
 
 Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies, but lean towards front-end design due to the scope of creativity it allows. However, I enjoy all aspects of a full-stack codebase and embrace every opportunity to improve my skills.
@@ -24,8 +9,8 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 ---------------------------------------------
 
-|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|[HOBBIES](#chapter-5)|
-|:---|:---|:---|:---|:---|
+|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|[HOBBIES](#chapter-5)|[NETWORKS](#chapter-6)|[CONTACT DETAILS](#chapter-7)|
+|:---|:---|:---|:---|:---|:---|:---|
 
 ------------------------------------------------------------------------------------
 
@@ -158,3 +143,24 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 - Endless brunches or pub lunches
 - Tennis with friends
 - Listening to vinyl records from the golden oldies
+
+
+## Networks <a name="chapter-6"></a>
+
+<div style="text-align: center; letter-spacing: 50px">
+  <center>
+
+  <a href="https://medium.com/me/stories/public">
+  <img src="./medium.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+  <a href="https://github.com/LTurns">
+  <img src="./github.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+  <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">
+  <img src="./linkedin.png" alt="medium" hspace="50" height="42" width="42"></a>
+  
+  </center>
+</div>
+
+## Contact Details <a name="chapter-7"></a>
+
