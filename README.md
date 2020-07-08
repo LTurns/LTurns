@@ -6,7 +6,7 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 </p>
 
 <p align="center">
-  <img src="./new_border.png" id="doodle"/>
+  <img src="./images/new_border.png" id="doodle"/>
   </p>
 
 <p align="center"> 
