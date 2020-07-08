@@ -18,7 +18,7 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 Over the last few years, I have established wonderful jobs within finance. I thoroughly enjoyed working in this industry, and believe it taught me unparalelled levels of professionalism and fuelled my initial interest in technology. Since then, coding has opened my mind to how technology truly influences and alters every aspect of our lives. I'm throroughly excited to be part of where it goes next!
 </p>
 
-|[PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|[EMPLOYMENT EXPERIENCE](#-chapter-3)|[EDUCATION](#-chapter-4)|[HOBBIES](#-chapter-5)|
+|[PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|[EMPLOYMENT EXPERIENCE](#-chapter-3)|[EDUCATION](#-chapter-4)|[HOBBIES](#-chapter-5)|Tech Stack|Testing|Personal Highlights|
 |:---|:---|:---|:---|:---|:---|:---|:---|
 
 <img src="./new_border.png" id="doodle"/></center>
