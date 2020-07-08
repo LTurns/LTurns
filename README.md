@@ -57,6 +57,16 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 ## Skills <a name="chapter-2"></a>
 
 
+<details close>
+<summary>Communication</summary>
+<br>
+  
+  In my previous job, much of my time involved consulting with financial investors or investment managers over large amounts of money. This required a high-level of clarity and professionalism, something I can certainly bring to the table. Further to this, in sales, you learn to "mirror" your clients. Selling everyday, though immensely tough, taught me to tailor my approach to each individual, among other invaluable lessons. This stream of varied conversation was something I exceeded in, always hitting target and bringing in over £200k of revenue in my first year.
+
+Technology is perhaps the most indispensable industry of our time. Therefore, being a strong communicator, someone to bridge the gap between client and developer, is perhaps more important than ever and will continue to be a growing necessity.
+
+</details>
+  
 ### **Communication:** ###
 
 In my previous job, much of my time involved consulting with financial investors or investment managers over large amounts of money. This required a high-level of clarity and professionalism, something I can certainly bring to the table. Further to this, in sales, you learn to "mirror" your clients. Selling everyday, though immensely tough, taught me to tailor my approach to each individual, among other invaluable lessons. This stream of varied conversation was something I exceeded in, always hitting target and bringing in over £200k of revenue in my first year.
