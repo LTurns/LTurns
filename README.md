@@ -1,5 +1,7 @@
 # Lizzie Turney
 
+<img src="./doodle.jpg" id="doodle"/>
+
 <p align="center">
  <img src="./medium.png" id="medium" width="50"/>  <img src="./linkedin.png" id="linkedIn" width="50"/>  <img src="./github.png" id="github" width="50"/> <br></br>
  <a href="https://medium.com/me/stories/public">Medium.   </a><a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">LinkedIn.    </a><a href="https://github.com/LTurns">Github.   </a>  
