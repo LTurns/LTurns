@@ -5,16 +5,23 @@
  <img src="./medium.png" id="medium" width="50"/>  <img src="./linkedin.png" id="linkedIn" width="50"/>  <img src="./github.png" id="github" width="50"/> <br></br>
  <a href="https://medium.com/me/stories/public">Medium.   </a><a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">LinkedIn.    </a><a href="https://github.com/LTurns">Github.   </a>  
 </p>
-<center><img src="./new_border.png" id="doodle"/></center>
+ 
+ <p align="center">
+<img src="./new_border.png" id="doodle"/></center>
+</p>
 
 <p align="center">
 Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies. I lean towards front-end design due to the scope of creativity it allows. However, I enjoy every aspect of a full-stack codebase and embrace every opportunity to improve my skills.
+ </p>
+ 
+ <p align="center">
 
 Over the last few years, I have established wonderful jobs within finance. I thoroughly enjoyed working in this industry, and believe it taught me unparalelled levels of professionalism and fuelled my initial interest in technology. Since then, coding has opened my mind to how technology truly influences and alters every aspect of our lives. I'm throroughly excited to be part of where it goes next!
 </p>
 
-
+<p align="center">
 [PROJECTS](#chapter-1) || [SKILLS](#chapter-2) || [EMPLOYMENT EXPERIENCE](#-chapter-3) || [EDUCATION](#-chapter-4) || [HOBBIES](#-chapter-5)
+ </p>
 
 
 ## Projects <a name="chapter-1"></a>
