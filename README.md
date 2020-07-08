@@ -4,7 +4,7 @@
  <img src="./medium.png" id="medium" width="50"/>                                                    <img src="./linkedin.png" id="linkedIn" width="50"/> <br>
  <a href="https://medium.com/me/stories/public">Medium</a>                                       <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">LinkedIn</a>
 <img src="./github.png" id="github" width="50"/>  
-<a href="https://github.com/LTurns">Medium</a>  
+<a href="https://github.com/LTurns">Github</a>  
 </p>
 
 <style>
