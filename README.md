@@ -16,6 +16,8 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 Over the last few years, I have established wonderful jobs within finance. I thoroughly enjoyed working in this industry, and believe it taught me unparalelled levels of professionalism and fuelled my initial interest in technology. Since then, coding has opened my mind to how technology truly influences and alters every aspect of our lives. I'm throroughly excited to be part of where it goes next!
 
         
+ ## Contents
+ 
  
 |[PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|[HOBBIES](#chapter-5)|
 |:---|:---|:---|:---|:---|
@@ -23,6 +25,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 
 ## Projects <a name="chapter-1"></a>
+
 
 ### Makers Academy Projects ###
 |Project|Summary|SnapShot|Team Size|Time|Tech Stack|Testing|Personal Highlights|
@@ -48,6 +51,7 @@ Well, you asked for it!
 
 ## Skills <a name="chapter-2"></a>
 
+
 ### **Communication:** ###
 
 In my previous job, much of my time involved consulting with financial investors or investment managers over large amounts of money. This required a high-level of clarity and professionalism, something I can certainly bring to the table. Further to this, in sales, you learn to "mirror" your clients. Selling everyday, though immensely tough, taught me to tailor my approach to each individual, among other invaluable lessons. This stream of varied conversation was something I exceeded in, always hitting target and bringing in over £200k of revenue in my first year.
@@ -68,6 +72,7 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 
 
 ## Employment Experience <a name="chapter-3"></a>
+
 
 **Goji Investment Services** (May 2019 to March 2020)  
 
@@ -108,6 +113,7 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 
 ## Education <a name="chapter-4"></a>
 
+
 #### Makers Academy (March 2020 - July 2020)
 
 - OOP, TDD, MVC, DDD
@@ -135,6 +141,7 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 - Part time job at Ashbourne Private School in Kensington
 
 ## Hobbies <a name="chapter-5"></a>
+
 
 - Composing music
 - Endless brunches or pub lunches
