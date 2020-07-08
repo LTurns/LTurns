@@ -1,4 +1,7 @@
 # Lizzie Turney
+<center>
+<img src="./medium.png" width="100" height="50"/>
+</center>
 
 
 Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator. I have experience in front-end, back-end, test-driven and database technologies. I lean towards front-end design due to the scope of creativity it allows. However, I enjoy every aspect of a full-stack codebase and embrace every opportunity to improve my skills.
@@ -43,9 +46,9 @@ Self-sufficiency has always been important to me. I wanted to do Makers Academy 
 
 ### **Logical and Creative Thinker:** ###
 
-When studying English Literature and Philosophy at University, one of the most useful subject matters was the study of Logic. This was my strongest subject throughout my time at University. I received honours for every paper. Deducting the correct arguments and using mathmatical approaches came to me far more naturally than I ever suspected; I am able to revisit this part of my mind when I code. It has also benefited my creative side. In my masters, I had to edit, create and compose sound for trailers (the trailer I created here was for a 4 minute film https://www.youtube.com/watch?v=Sukp6BQ7_dQ). Combining logic, analytics and creativity really seemed to ameliorate and strengthen my work. 
+When studying English Literature and Philosophy at University, one of the most useful subject matters was the study of Logic. This was my strongest subject throughout my time at University. I received honours for every paper. Deducting the correct arguments and using mathmatical approaches came to me far more naturally than I ever suspected; I am able to revisit this part of my mind when I code. It has also benefited my creative side. In my masters, I had to edit, create and compose sound for trailers (the trailer I created here was for a 4 minute film https://www.youtube.com/watch?v=Sukp6BQ7_dQ). Combining logic, analytics and creativity really seemed to ameliorate and strengthen my work.
 
-The world is ever evolving due to technology. Creativity, entrepreneurship and logical thinking are at the forefront of this evolution, so having the mindset to get involved, stay ahead, and one day make your own venture, truly excites me. 
+The world is ever evolving due to technology. Creativity, entrepreneurship and logical thinking are at the forefront of this evolution, so having the mindset to get involved, stay ahead, and one day make your own venture, truly excites me.
 
 
 # Employment Experience
