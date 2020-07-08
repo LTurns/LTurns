@@ -1,6 +1,8 @@
 # Lizzie Turney
 
-
+<p align="center">
+  <img width="460" height="300" src="http://www.fillmurray.com/460/300">
+</p>
 [<img align="center" src="./medium.png" width="50" height="50"/>](https://medium.com/me/stories/public) [<img align="center" src="./linkedin.png" width="50" height="50"/>](https://www.linkedin.com/in/lizzie-turney-b35548a1/)
 
 
