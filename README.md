@@ -12,7 +12,6 @@
   <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">
   <img src="./linkedin.png" alt="medium" hspace="50" height="42" width="42"></a>
 
-  <img src="./new_border.png" id="doodle"/></center>
 </div>
 
 
