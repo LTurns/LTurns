@@ -1,6 +1,6 @@
 # Lizzie Turney
 
-
+<center>
 <div style="text-align: center; letter-spacing: 50px">
 
   <a href="https://medium.com/me/stories/public">
@@ -13,6 +13,7 @@
   <img src="./linkedin.png" alt="medium" hspace="50" height="42" width="42"></a>
 
 </div>
+</center>
 
 
 
