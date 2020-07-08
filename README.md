@@ -1,6 +1,6 @@
 # Lizzie Turney
 
-<img src="./border.png" id="doodle"/>
+<img src="./new_border.png" id="doodle"/>
 
 <p align="center">
  <img src="./medium.png" id="medium" width="50"/>  <img src="./linkedin.png" id="linkedIn" width="50"/>  <img src="./github.png" id="github" width="50"/> <br></br>
