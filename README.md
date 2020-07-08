@@ -6,8 +6,8 @@
 </p>
 
 <style>
-#medium {padding: 20px}
-#linkedIn { padding: 20px}
+#medium {padding-right: 20px;}
+#linkedIn { padding-left: 20px;}
 </style>
 
 
