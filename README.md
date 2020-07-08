@@ -19,8 +19,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 ---------------------------------------------
 
-|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://medium.com/me/stories/public">
-  <img src="./medium.png" alt="linkedin" hspace="50" height="42" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|[HOBBIES](#chapter-5)|[NETWORKS](#chapter-6)|[CONTACT DETAILS](#chapter-7)|
+|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://medium.com/me/stories/public"> <img src="./medium.png" alt="linkedin" hspace="50" height="42" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|[HOBBIES](#chapter-5)|[NETWORKS](#chapter-6)|[CONTACT DETAILS](#chapter-7)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ------------------------------------------------------------------------------------
