@@ -6,7 +6,7 @@
 </p>
 
 <style>
-#medium {paddingt: 40px;}
+#medium {padding: 40px;}
 #linkedIn { padding: 40px;}
 </style>
 
