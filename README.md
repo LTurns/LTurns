@@ -12,17 +12,20 @@
 #linkedIn { padding: 40px;}
 </style>
 
-## Chapter 1 <a name="chapter-1"></a>
-
-
 Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies. I lean towards front-end design due to the scope of creativity it allows. However, I enjoy every aspect of a full-stack codebase and embrace every opportunity to improve my skills.
 
 Over the last few years, I have established wonderful jobs within finance. I thoroughly enjoyed working in this industry, and believe it taught me unparalelled levels of professionalism and fuelled my initial interest in technology. Since then, coding has opened my mind to how technology truly influences and alters every aspect of our lives. I'm throroughly excited to be part of where it goes next!
 
+
+# Table of Contents
+  * [Projects](#chapter-1)
+  * [Skills](#chapter-2)
+  * [Employment Experience](#chapter-3)
+
 [PROJECTS](#-Projects) || [SKILLS](#-Skills) || [EMPLOYMENT EXPERIENCE](#-Employment-Experience) || [EDUCATION](#-Education) || [HOBBIES](#-Hobiies)
 
 
-# Projects
+## Projects <a name="chapter-1"></a>
 
 ### Makers Academy Projects ###
 |Project|Summary|SnapShot|Team Size|Time|Tech Stack|Testing|Personal Highlights|
@@ -41,7 +44,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
  use thermostat to include weather API and design - then put this in personal projects -->
 
 
-# Skills
+## Skills <a name="chapter-2"></a>
 
 ### **Communication:** ###
 
@@ -62,7 +65,7 @@ When studying English Literature and Philosophy at University, one of the most u
 The world is ever evolving due to technology. Creativity, entrepreneurship and logical thinking are at the forefront of this evolution, so having the mindset to get involved, stay ahead, and one day make your own venture, truly excites me.
 
 
-# Employment Experience
+## Employment Experience <a name="chapter-3"></a>
 
 **Goji Investment Services** (May 2019 to March 2020)  
 
