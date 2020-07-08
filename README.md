@@ -1,9 +1,14 @@
 # Lizzie Turney
 
 <p align="center">
- <img src="./medium.png" padding="10" width="50" height="50"/><img src="./linkedin.png" padding="10" width="50" height="50"/> <br>
+ <img src="./medium.png" id="medium" width="50"/><img src="./linkedin.png" id="linkedIn" width="50"/> <br>
  <a href="https://medium.com/me/stories/public">Medium</a><a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">LinkedIn</a>
 </p>
+
+style>
+#medium {padding: 20px}
+#linkedIn { padding: 20px}
+</style>
 
 
 Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies. I lean towards front-end design due to the scope of creativity it allows. However, I enjoy every aspect of a full-stack codebase and embrace every opportunity to improve my skills.
