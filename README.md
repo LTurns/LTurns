@@ -36,14 +36,6 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 |[Acebook](https://github.com/LTurns/Node4Code)<br><img src="./acebook.png" width="100" height="50" />|A modern, minimalist facebook clone with similar capabilities.|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning Node within 2 weeks & being part of a great team was wonderful.|
 |[Bowling Calculator](https://github.com/LTurns/bowling-challenge)<br> <img src="./bowling_calculator.png" width="100" height="50"/>| An online calculator for keeping score of your bowling game.|1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY.|
 
-<details close>
-<summary>Click to see more!</summary>
-<br>
-
-|Project|Summary|Team Size|Time|Tech Stack|Testing|Personal Highlights|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[Makers AirBnB](https://github.com/LTurns/makersBnB)| A variation of the popularly used site "Air BnB."|6|2 Weeks|Ruby, Sinatra, HTML/CSS, PostgreSQL, Bcrypt |RSpec, Capybara, SimpleCov(formatting)| I developed and solidified my Ruby skills.|
-</details>
 
 <!-- ### Personal Projects ###
 
