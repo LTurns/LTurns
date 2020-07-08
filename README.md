@@ -1,7 +1,6 @@
 # Lizzie Turney
 <div>
-<center>
-<center><img src="./medium.png" width="50" height="50"/></center><center><a href="https://medium.com/me/stories/public">Medium</a></center>
+<center><img src="./medium.png" width="50" height="50"/><a href="https://medium.com/me/stories/public">Medium</a></center>
 
 <center><img src="./linkedin.png" width="50" height="50"/></center><center><a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">LinkedIn</a></center>
 </center>
