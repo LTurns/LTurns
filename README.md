@@ -5,6 +5,19 @@
  <img src="./medium.png" id="medium" width="50"/>  <img src="./github.png" id="github" width="50"/>   <img src="./linkedin.png" id="linkedIn" width="50"/> <br></br>
  <a href="https://medium.com/me/stories/public">Medium.   </a><a href="https://github.com/LTurns">Github.   </a><a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/">LinkedIn.    </a> 
 </p>
+
+<div style="text-align: center; letter-spacing: 20px">
+
+  <a href="https://medium.com/me/stories/public">
+  <img src="./medium.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+  <a href="https://medium.com/@julesnuggy">
+  <img src="https://cdn-images-1.medium.com/max/1600/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+  <a href="https://julesnuggy.github.io">
+  <img src="https://image.ibb.co/mUEBv6/20171025220618_enhanced.jpg" alt="medium" hspace="50" height="42" width="42"></a>
+
+</div>
  
  <p align="center">
 <img src="./new_border.png" id="doodle"/></center>
