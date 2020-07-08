@@ -39,9 +39,9 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 <summary>Click to see more!</summary>
 <br>
 
-|Project|Summary|SnapShot|Team Size|Time|Tech Stack|Testing|Personal Highlights|
+|Project|Summary|Team Size|Time|Tech Stack|Testing|Personal Highlights|
 |:-:|:-:|:---|:-:|:-:|:-:|:-:|:---|
-|[Makers AirBnB](https://github.com/LTurns/makersBnB)| A variation of the popularly used site "Air BnB"|-|6|2 Weeks|Ruby, Sinatra, HTML/CSS, PostgreSQL, Bcrypt |RSpec, Capybara, SimpleCov(formatting)| I developed and solidified my Ruby skills|
+|[Makers AirBnB](https://github.com/LTurns/makersBnB)| A variation of the popularly used site "Air BnB"|6|2 Weeks|Ruby, Sinatra, HTML/CSS, PostgreSQL, Bcrypt |RSpec, Capybara, SimpleCov(formatting)| I developed and solidified my Ruby skills|
 </details>
 
 <!-- ### Personal Projects ###
