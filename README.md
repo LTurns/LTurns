@@ -23,9 +23,12 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 </p>
 
 
-          
+<center>          
+ 
 |[PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|[EMPLOYMENT EXPERIENCE](#-chapter-3)|[EDUCATION](#-chapter-4)|[HOBBIES](#-chapter-5)|
 |:---|:---|:---|:---|:---|
+
+</center>
 
 
 
