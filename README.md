@@ -1,14 +1,17 @@
 # Lizzie Turney
-<p align="center">
-  <img src="./new_border.png" id="doodle"/>
-  </p>
+
 
 <p align="center">
 Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies, but lean towards front-end design due to the scope of creativity it allows. However, I enjoy all aspects of a full-stack codebase and embrace every opportunity to improve my skills.
 </p>
 
- 
+<p align="center">
+  <img src="./new_border.png" id="doodle"/>
+  </p>
+
+<p align="center"> 
 Over the last few years, I have established wonderful jobs within finance. I thoroughly enjoyed working in this industry, and believe it taught me unparalelled levels of professionalism and fuelled my initial interest in technology. Since then, coding has opened my mind to how technology truly influences and alters every aspect of our lives. I'm throroughly excited to be part of where it goes next!
+  </p>
 
 <p align="center>
   <img src="./new_border.png" id="doodle"/>
