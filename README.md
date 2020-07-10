@@ -75,7 +75,7 @@ Self-sufficiency has always been important to me. I wanted to do Makers Academy 
 <summary>Logical and Creative Thinker</summary>
 <br>
   
-When studying English Literature and Philosophy at University, one of the most useful subject matters was the study of Logic. This was my strongest subject throughout my time at University. I received honours for every paper. Deducting the correct arguments and using mathmatical approaches came to me far more naturally than I ever suspected; I am able to revisit this part of my mind when I code. It has also benefited my creative side. In my masters, I had to edit, create and compose sound for trailers (the trailer I created here was for a 4 minute film https://www.youtube.com/watch?v=Sukp6BQ7_dQ). Combining logic, analytics and creativity really seemed to ameliorate and strengthen my work.
+When studying English Literature and Philosophy at University, one of the most useful subject matters was the study of Logic. This was my strongest subject throughout my time at University. I received honours for every paper. Deducting the correct arguments and using mathmatical approaches came to me far more naturally than I ever suspected; I am able to revisit this part of my mind when I code. It has also benefited my creative side. In my masters, I had to edit, create and compose sound for trailers. Click [here](https://www.youtube.com/watch?v=Sukp6BQ7_dQ) to see the trailer I made for a 4 minute film. Combining logic, analytics and creativity really seemed to ameliorate and strengthen my work.
 
 The world is ever evolving due to technology. Creativity, entrepreneurship and logical thinking are at the forefront of this evolution, so having the mindset to get involved, stay ahead, and one day make your own venture, truly excites me.
 
@@ -126,6 +126,7 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 
 
 #### Makers Academy (March 2020 - July 2020)
+##### Software Development Course #####
 
 - OOP, TDD, MVC, DDD
 - Agile Development Process
@@ -133,16 +134,18 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 - RSpec, Jasmine, Capybara, Jest, Cypress
 
 #### University of Westminster (2016 to 2017)
+##### Masters: Audio Technology #####
 
-- Masters: Audio Technology, Applicable Courses: Audio-Visual works on Games (WWise Software), Adobe XD from App Prototypes, Short Films and Animations
+- Applicable Courses: Audio-Visual works on Games (WWise Software), Adobe XD from App Prototypes, Short Films and Animations
 - Utilised WWise, Logic & Protools Sound Interfaces
 - Use of XD and Adobe Animate for constructing application prototypes
 - Merit
 - Part time job at Ashbourne Private School in Kensington
 
 #### University of Birmingham (2012 to 2015)
+##### Degree: English Literature and Philosophy #####
 
-- Degree: English Literature and Philosophy, Applicable Courses: Logic and Deductivism,  Politics and Philosophy
+- Applicable Courses: Logic and Deductivism,  Politics and Philosophy
 - Dissertation: 'Literature as a Discriminative or Biased Force when presenting a Disabled Character.'
 - 2:1
 - Captained the Girls Squash Team - BUCS Champions
