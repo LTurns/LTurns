@@ -2,7 +2,9 @@
 
 
 <p align="center">
-Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies, but lean towards front-end design due to the scope of creativity it allows. However, I enjoy all aspects of a full-stack codebase and embrace every opportunity to improve my skills.
+Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies, but lean towards front-end design due to the scope of creativity it allows. However, I enjoy all aspects of a full-stack codebase and embrace every opportunity to improve my skills. 
+  
+  Please refer [here](https://trusting-minsky-2135b4.netlify.app/) to see a PDF version of my CV. 
 </p>
 
 <p align="center">
@@ -130,6 +132,14 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 - Ruby, Sinatra, JavaScript, Node, MongoDB, PostgreSQL
 - RSpec, Jasmine, Capybara, Jest, Cypress
 
+#### University of Westminster (2016 to 2017)
+
+- Masters: Audio Technology, Applicable Courses: Audio-Visual works on Games (WWise Software), Adobe XD from App Prototypes, Short Films and Animations
+- Utilised WWise, Logic & Protools Sound Interfaces
+- Use of XD and Adobe Animate for constructing application prototypes
+- Merit
+- Part time job at Ashbourne Private School in Kensington
+
 #### University of Birmingham (2012 to 2015)
 
 - Degree: English Literature and Philosophy, Applicable Courses: Logic and Deductivism,  Politics and Philosophy
@@ -141,16 +151,7 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 - Writer for the University Tab
 - Part time job at the Student Union
 
-#### University of Westminster (2016 to 2017)
-
-- Masters: Audio Technology, Applicable Courses: Audio-Visual works on Games (WWise Software), Adobe XD from App Prototypes, Short Films and Animations
-- Utilised WWise, Logic & Protools Sound Interfaces
-- Use of XD and Adobe Animate for constructing application prototypes
-- Merit
-- Part time job at Ashbourne Private School in Kensington
-
 ## Hobbies <a name="chapter-5"></a>
-
 
 - Composing music
 - Endless brunches or pub lunches
