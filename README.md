@@ -4,7 +4,7 @@
 <p align="center">
 Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies, but lean towards front-end design due to the scope of creativity it allows. However, I enjoy all aspects of a full-stack codebase and embrace every opportunity to improve my skills. </p>
   <p align="center">
-  Please refer <a href="https://trusting-minsky-2135b4.netlify.app/">here</a> to see my CV - made with Bootstrap, CSS and HTML. 
+  Please refer <a href="https://trusting-minsky-2135b4.netlify.app/">here</a> to see my CV - made with Bootstrap, CSS and HTML. Click <a href="https://compassionate-khorana-73d965.netlify.app/">here</a> to checkout my website portfolio, made with React & Node JS!
 </p>
 
 <p align="center">
