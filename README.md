@@ -21,7 +21,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 ---------------------------------------------
 
-|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://blog.makersacademy.com/@lizzieturney"> <img src="./images/medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./images/github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./images/linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
+|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://blog.makersacademy.com/@lizzieturney"> <img src="./medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./images/github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./images/linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ------------------------------------------------------------------------------------
