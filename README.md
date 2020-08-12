@@ -39,6 +39,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 |[Bowling Calculator](https://github.com/LTurns/bowling_challenge)<br> <img src="./images/bowling_calculator.png" width="100" height="50"/>| An online calculator for keeping score of your bowling game.|1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY.| 
 |[MakersBnB](https://github.com/LTurns/makersBnB)<br>|A clone of AirBnB, with similar functionalities|6|2 weeks|Ruby Sinatra, postgreSQL|Capybara, RSpec| Working with a great group of people!|
 |[Thermostat](https://github.com/LTurns/thermostat)<br>|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS|Jasmine| Getting to grips with AJAX and callbacks|
+|[Teacher Website](https://github.com/LTurns/teacher_website)<br>|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun|n/a| Incorporating third party code & completing a project for a client in this instance|
 
 
 <!-- ### Personal Projects ###
