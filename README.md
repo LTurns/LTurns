@@ -2,11 +2,13 @@
 
 
 <p align="center">
-Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies, but lean towards front-end design due to the scope of creativity it allows. However, I enjoy all aspects of a full-stack codebase and embrace every opportunity to improve my skills.
+Junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies, but lean towards front-end design due to the scope of creativity it allows. However, I enjoy all aspects of a full-stack codebase and embrace every opportunity to improve my skills. </p>
+  <p align="center">
+  Please refer <a href="https://lizziecv.netlify.app/">here</a> to see my CV - made with Bootstrap, CSS and HTML. <br></br> Click <a href="https://lizzieportfolio.netlify.app/">here</a> to view my website portfolio, made with React & Node JS!
 </p>
 
 <p align="center">
-  <img src="./new_border.png" id="doodle"/>
+  <img src="./images/new_border.png" id="doodle"/>
   </p>
 
 <p align="center"> 
@@ -19,7 +21,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 ---------------------------------------------
 
-|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://medium.com/me/stories/public"> <img src="./medium.png" alt="linkedin" hspace="50" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./github.png" alt="medium" hspace="50" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./linkedin.png" alt="medium" hspace="50" height="42" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
+|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://blog.makersacademy.com/@lizzieturney"> <img src="./images/medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./images/github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./images/linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ------------------------------------------------------------------------------------
@@ -32,9 +34,13 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 |Project|Summary|Team Size|Time|Tech Stack|Testing|Personal Highlights|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[Run Boris Run](https://github.com/LTurns/Covid_Game) Deployment: [https://run-boris-run.netlify.app/](https://run-boris-run.netlify.app/)<img src="./run_boris_run.png" width="100" height="50" />| Boris sets out to get milk, while facing the trials of lockdown and social distancing.|6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|Bringing this idea to life was a whirlwind of creativity!|
-|[Acebook](https://github.com/LTurns/Node4Code)<br><img src="./acebook.png" width="100" height="50" />|A modern, minimalist facebook clone with similar capabilities.|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning Node within 2 weeks & being part of a great team was wonderful.|
-|[Bowling Calculator](https://github.com/LTurns/bowling-challenge)<br> <img src="./bowling_calculator.png" width="100" height="50"/>| An online calculator for keeping score of your bowling game.|1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY.|
+|[Run Boris Run](https://github.com/LTurns/run_boris_run) Deployment: [https://run-boris-run.netlify.app/](https://run-boris-run.netlify.app/)<br><img src="./images/run_boris_run.png" width="150" />| Boris sets out to get milk, while facing the trials of lockdown and social distancing.|6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|Bringing this idea to life was a whirlwind of creativity!|
+|[Acebook](https://github.com/LTurns/Acebook)<br><img src="./images/acebook.png" width="150" />|A modern, minimalist facebook clone with similar capabilities.|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning Node within 2 weeks & being part of a great team was wonderful.|
+|[Bowling Calculator](https://github.com/LTurns/bowling_challenge)<br> <img src="./images/bowling_calculator.png" width="150"/>| An online calculator for keeping score of your bowling game.|1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY.| 
+|[MakersBnB](https://github.com/LTurns/makersBnB)<br>|A clone of AirBnB, with similar functionalities|6|2 weeks|Ruby Sinatra, postgreSQL|Capybara, RSpec| Working with a great group of people!|
+|[Thermostat](https://github.com/LTurns/thermostat)<br>|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS|Jasmine| Getting to grips with AJAX and callbacks|
+|[Teacher Website](https://github.com/LTurns/teacher_website)<br>|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun|n/a| Incorporating third party code & completing a project for a client in this instance|
+|[Student List](https://github.com/LTurns/vue_student_list)<br>|Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|n/a|Learning VUE.JS framework!|
 
 
 <!-- ### Personal Projects ###
@@ -73,7 +79,7 @@ Self-sufficiency has always been important to me. I wanted to do Makers Academy 
 <summary>Logical and Creative Thinker</summary>
 <br>
   
-When studying English Literature and Philosophy at University, one of the most useful subject matters was the study of Logic. This was my strongest subject throughout my time at University. I received honours for every paper. Deducting the correct arguments and using mathmatical approaches came to me far more naturally than I ever suspected; I am able to revisit this part of my mind when I code. It has also benefited my creative side. In my masters, I had to edit, create and compose sound for trailers (the trailer I created here was for a 4 minute film https://www.youtube.com/watch?v=Sukp6BQ7_dQ). Combining logic, analytics and creativity really seemed to ameliorate and strengthen my work.
+When studying English Literature and Philosophy at University, one of the most useful subject matters was the study of Logic. This was my strongest subject throughout my time at University. I received honours for every paper. Deducting the correct arguments and using mathmatical approaches came to me far more naturally than I ever suspected; I am able to revisit this part of my mind when I code. It has also benefited my creative side. In my masters, I had to edit, create and compose sound for trailers. Click [here](https://www.youtube.com/watch?v=Sukp6BQ7_dQ) to see the trailer I made for a 4 minute film. Combining logic, analytics and creativity really seemed to ameliorate and strengthen my work.
 
 The world is ever evolving due to technology. Creativity, entrepreneurship and logical thinking are at the forefront of this evolution, so having the mindset to get involved, stay ahead, and one day make your own venture, truly excites me.
 
@@ -124,15 +130,26 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 
 
 #### Makers Academy (March 2020 - July 2020)
+##### Software Development Course #####
 
 - OOP, TDD, MVC, DDD
 - Agile Development Process
 - Ruby, Sinatra, JavaScript, Node, MongoDB, PostgreSQL
 - RSpec, Jasmine, Capybara, Jest, Cypress
 
-#### University of Birmingham (2012 to 2015)
+#### University of Westminster (2016 to 2017)
+##### Masters: Audio Technology #####
 
-- Degree: English Literature and Philosophy, Applicable Courses: Logic and Deductivism,  Politics and Philosophy
+- Applicable Courses: Audio-Visual works on Games (WWise Software), Adobe XD from App Prototypes, Short Films and Animations
+- Utilised WWise, Logic & Protools Sound Interfaces
+- Use of XD and Adobe Animate for constructing application prototypes
+- Merit
+- Part time job at Ashbourne Private School in Kensington
+
+#### University of Birmingham (2012 to 2015)
+##### Degree: English Literature and Philosophy #####
+
+- Applicable Courses: Logic and Deductivism,  Politics and Philosophy
 - Dissertation: 'Literature as a Discriminative or Biased Force when presenting a Disabled Character.'
 - 2:1
 - Captained the Girls Squash Team - BUCS Champions
@@ -141,16 +158,7 @@ The world is ever evolving due to technology. Creativity, entrepreneurship and l
 - Writer for the University Tab
 - Part time job at the Student Union
 
-#### University of Westminster (2016 to 2017)
-
-- Masters: Audio Technology, Applicable Courses: Audio-Visual works on Games (WWise Software), Adobe XD from App Prototypes, Short Films and Animations
-- Utilised WWise, Logic & Protools Sound Interfaces
-- Use of XD and Adobe Animate for constructing application prototypes
-- Merit
-- Part time job at Ashbourne Private School in Kensington
-
 ## Hobbies <a name="chapter-5"></a>
-
 
 - Composing music
 - Endless brunches or pub lunches
