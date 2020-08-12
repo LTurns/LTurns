@@ -7,7 +7,7 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
   Please refer <a href="https://lizziecv.netlify.app/">here</a> to see my CV - made with Bootstrap, CSS and HTML. <br></br> Click <a href="https://lizzieportfolio.netlify.app/">here</a> to view my website portfolio, made with React & Node JS!
 </p>
 <center>
-  ![border](https://github.com/LTurns/LTurns/blob/master/new_border.png)
+  <img src="https://github.com/LTurns/LTurns/blob/master/new_border.png"/>
   </center>
 
 
