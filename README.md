@@ -41,6 +41,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 |[Thermostat](https://github.com/LTurns/thermostat)<br><img src="./images/thermostat.png" width="150" />|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS|Jasmine| Getting to grips with AJAX and callbacks|
 |[Teacher Website](https://github.com/LTurns/teacher_website)<br><img src="./images/teacher_website.png" width="200"/>|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun|n/a| Incorporating third party code & completing a project for a client in this instance|
 |[Student List](https://github.com/LTurns/vue_student_list)<br><img src="./images/student_directory.png" width="200"/> |Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|n/a|Learning VUE.JS framework!|
+|[Website Portfolio](https://github.com/LTurns/website_portfolio)<br><img src="./images/portfolio.png" width="200"/> |Online portfolio with particles.js and CSS animation|1|1 week|React, Canvas HTML5|n/a|Incorporating animation and text-transitions with CSS|
 
 
 <!-- ### Personal Projects ###
