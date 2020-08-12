@@ -34,13 +34,13 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 |Project|Summary|Team Size|Time|Tech Stack|Testing|Personal Highlights|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[Run Boris Run](https://github.com/LTurns/run_boris_run) Deployment: [https://run-boris-run.netlify.app/](https://run-boris-run.netlify.app/)<img src="./images/run_boris_run.png" width="100" height="50" />| Boris sets out to get milk, while facing the trials of lockdown and social distancing.|6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|Bringing this idea to life was a whirlwind of creativity!|
+|[Run Boris Run](https://github.com/LTurns/run_boris_run) Deployment: [https://run-boris-run.netlify.app/](https://run-boris-run.netlify.app/)<br><img src="./images/run_boris_run.png" width="100" height="50" />| Boris sets out to get milk, while facing the trials of lockdown and social distancing.|6|2 Weeks|Node, React, HTML5, Vanilla Javascript|Jasmine|Bringing this idea to life was a whirlwind of creativity!|
 |[Acebook](https://github.com/LTurns/Acebook)<br><img src="./images/acebook.png" width="100" height="50" />|A modern, minimalist facebook clone with similar capabilities.|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning Node within 2 weeks & being part of a great team was wonderful.|
 |[Bowling Calculator](https://github.com/LTurns/bowling_challenge)<br> <img src="./images/bowling_calculator.png" width="100" height="50"/>| An online calculator for keeping score of your bowling game.|1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY.| 
 |[MakersBnB](https://github.com/LTurns/makersBnB)<br>|A clone of AirBnB, with similar functionalities|6|2 weeks|Ruby Sinatra, postgreSQL|Capybara, RSpec| Working with a great group of people!|
 |[Thermostat](https://github.com/LTurns/thermostat)<br>|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS|Jasmine| Getting to grips with AJAX and callbacks|
 |[Teacher Website](https://github.com/LTurns/teacher_website)<br>|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun|n/a| Incorporating third party code & completing a project for a client in this instance|
-|Student List](https://github.com/LTurns/vue_student_list)<br>|Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|n/a|Learning VUE.JS framework!|
+|[Student List](https://github.com/LTurns/vue_student_list)<br>|Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|n/a|Learning VUE.JS framework!|
 
 
 <!-- ### Personal Projects ###
