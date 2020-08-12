@@ -38,6 +38,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 |[Acebook](https://github.com/LTurns/Acebook)<br><img src="./images/acebook.png" width="100" height="50" />|A modern, minimalist facebook clone with similar capabilities.|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB| Cypress, Jest | Learning Node within 2 weeks & being part of a great team was wonderful.|
 |[Bowling Calculator](https://github.com/LTurns/bowling_challenge)<br> <img src="./images/bowling_calculator.png" width="100" height="50"/>| An online calculator for keeping score of your bowling game.|1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation|Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY.| 
 |[MakersBnB](https://github.com/LTurns/makersBnB)<br>|A clone of AirBnB, with similar functionalities|6|2 weeks|Ruby Sinatra, postgreSQL|Capybara, RSpec| Working with a great group of people!|
+|[Thermostat](https://github.com/LTurns/thermostat)<br>|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS|Jasmine| Getting to grips with AJAX and callbacks|
 
 
 <!-- ### Personal Projects ###
