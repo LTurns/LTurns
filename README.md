@@ -8,7 +8,7 @@ Junior full-stack developer with an entrepreneurial flair for creating eye-catch
 </p>
 
 <p align="center">
-  <img src="./images/new_border.png" id="doodle"/>
+  <img src="./new_border.png" id="doodle"/>
   </p>
 
 <p align="center"> 
@@ -21,7 +21,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 ---------------------------------------------
 
-|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://blog.makersacademy.com/@lizzieturney"> <img src="./medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./images/github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./images/linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
+|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://blog.makersacademy.com/@lizzieturney"> <img src="./medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ------------------------------------------------------------------------------------
@@ -34,14 +34,14 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 |Project|Summary|Team Size|Time|Tech Stack|Personal Highlights|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-  |[Run Boris Run](https://github.com/LTurns/run_boris_run) [Deployed Site](https://run-boris-run.netlify.app/)<br><img src="./images/run_boris_run.png" width="250" />| Boris sets out to get milk, while facing the trials of lockdown and social distancing.|6|2 Weeks|Node, React, HTML5, Vanilla Javascript, Testing: Jest|Bringing this idea to life was a whirlwind of creativity!|
-|[Acebook](https://github.com/LTurns/Acebook)<br><img src="./images/acebook.png" width="250"/>|A modern, minimalist facebook clone with similar capabilities.|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB, Testing: Cypress, Jest|Learning Node within 2 weeks & being part of a great team was wonderful.|
-|[Bowling Calculator](https://github.com/LTurns/bowling_challenge)<br> <img src="./images/bowling_calculator.png" width="250"/>| An online calculator for keeping score of your bowling game.|1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation, Testing: Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY.| 
-|[MakersBnB](https://github.com/LTurns/makersBnB)<br><img src="./images/makers_bnb.png" width="250" />|A clone of AirBnB, with similar functionalities|6|2 weeks|Ruby Sinatra, postgreSQL, Testing: Capybara, RSpec| Working with a great group of people!|
-|[Thermostat](https://github.com/LTurns/thermostat)<br><img src="./images/thermostat.png" width="250" />|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS, Testing: Jasmine| Getting to grips with AJAX and callbacks|
-|[Teacher Website](https://github.com/LTurns/teacher_website)<br><img src="./images/teacher_website.png" width="250"/>|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun| Incorporating third party code & completing a project for a client in this instance|
-|[Student List](https://github.com/LTurns/vue_student_list)<br><img src="./images/student_directory.png" width="250"/> |Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|Learning VUE.JS framework!|
-|[Website Portfolio](https://github.com/LTurns/website_portfolio) [Deployed Site](https://lizzieportfolio.netlify.app/)<br><img src="./images/portfolio.png" width="250"/> |Online portfolio with particles.js and CSS animation|1|1 week|React, Canvas HTML5|Incorporating animation and text-transitions with CSS|
+  |[Run Boris Run](https://github.com/LTurns/run_boris_run) [Deployed Site](https://run-boris-run.netlify.app/)<br><img src="./run_boris_run.png" width="250" />| Boris sets out to get milk, while facing the trials of lockdown and social distancing.|6|2 Weeks|Node, React, HTML5, Vanilla Javascript, Testing: Jest|Bringing this idea to life was a whirlwind of creativity!|
+|[Acebook](https://github.com/LTurns/Acebook)<br><img src="./acebook.png" width="250"/>|A modern, minimalist facebook clone with similar capabilities.|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB, Testing: Cypress, Jest|Learning Node within 2 weeks & being part of a great team was wonderful.|
+|[Bowling Calculator](https://github.com/LTurns/bowling_challenge)<br> <img src="./bowling_calculator.png" width="250"/>| An online calculator for keeping score of your bowling game.|1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation, Testing: Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY.| 
+|[MakersBnB](https://github.com/LTurns/makersBnB)<br><img src="./makers_bnb.png" width="250" />|A clone of AirBnB, with similar functionalities|6|2 weeks|Ruby Sinatra, postgreSQL, Testing: Capybara, RSpec| Working with a great group of people!|
+|[Thermostat](https://github.com/LTurns/thermostat)<br><img src="./thermostat.png" width="250" />|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS, Testing: Jasmine| Getting to grips with AJAX and callbacks|
+|[Teacher Website](https://github.com/LTurns/teacher_website)<br><img src="./teacher_website.png" width="250"/>|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun| Incorporating third party code & completing a project for a client in this instance|
+|[Student List](https://github.com/LTurns/vue_student_list)<br><img src="./student_directory.png" width="250"/> |Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|Learning VUE.JS framework!|
+|[Website Portfolio](https://github.com/LTurns/website_portfolio) [Deployed Site](https://lizzieportfolio.netlify.app/)<br><img src="./portfolio.png" width="250"/> |Online portfolio with particles.js and CSS animation|1|1 week|React, Canvas HTML5|Incorporating animation and text-transitions with CSS|
 
 
 <!-- ### Personal Projects ###
