@@ -41,7 +41,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 |[Thermostat](https://github.com/LTurns/thermostat)<br><img src="./images/thermostat.png" width="250" />|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS, Testing: Jasmine| Getting to grips with AJAX and callbacks|
 |[Teacher Website](https://github.com/LTurns/teacher_website)<br><img src="./images/teacher_website.png" width="250"/>|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun| Incorporating third party code & completing a project for a client in this instance|
 |[Student List](https://github.com/LTurns/vue_student_list)<br><img src="./images/student_directory.png" width="250"/> |Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|Learning VUE.JS framework!|
-|[Website Portfolio](https://github.com/LTurns/website_portfolio) Deployed Site: [Deployed Site](https://lizzieportfolio.netlify.app/)<br><img src="./images/portfolio.png" width="250"/> |Online portfolio with particles.js and CSS animation|1|1 week|React, Canvas HTML5|Incorporating animation and text-transitions with CSS|
+|[Website Portfolio](https://github.com/LTurns/website_portfolio) [Deployed Site](https://lizzieportfolio.netlify.app/)<br><img src="./images/portfolio.png" width="250"/> |Online portfolio with particles.js and CSS animation|1|1 week|React, Canvas HTML5|Incorporating animation and text-transitions with CSS|
 
 
 <!-- ### Personal Projects ###
