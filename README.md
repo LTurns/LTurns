@@ -40,7 +40,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 |[MakersBnB](https://github.com/LTurns/makersBnB)<br><img src="./images/makers_bnb.png" width="150" />|A clone of AirBnB, with similar functionalities|6|2 weeks|Ruby Sinatra, postgreSQL|Capybara, RSpec| Working with a great group of people!|
 |[Thermostat](https://github.com/LTurns/thermostat)<br><img src="./images/thermostat.png" width="150" />|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS|Jasmine| Getting to grips with AJAX and callbacks|
 |[Teacher Website](https://github.com/LTurns/teacher_website)<br><img src="./images/teacher_website.png" width="200"/>|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun|n/a| Incorporating third party code & completing a project for a client in this instance|
-|[Student List](https://github.com/LTurns/vue_student_list)<br>|Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|n/a|Learning VUE.JS framework!|
+|[Student List](https://github.com/LTurns/vue_student_list)<br><img src="./images/student_directory.png" width="200"/> |Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|n/a|Learning VUE.JS framework!|
 
 
 <!-- ### Personal Projects ###
