@@ -10,7 +10,6 @@ I'm a junior full-stack developer with an entrepreneurial flair for creating eye
 |![title_website](https://github.com/LTurns/LTurns/blob/master/imgs/title_web.png)|![title_website](https://github.com/LTurns/LTurns/blob/master/imgs/title_mobile.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/prices_web.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/prices_mobile.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/contact_web.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/contact_mobile.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/about_web.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/about_mobile.png)|
 
 
-
   <p align="center">
   Please refer <a href="https://lizziecv.netlify.app/">here</a> to see my CV - made with Bootstrap, CSS and HTML. <br></br> Click <a href="https://lizzieportfolio.netlify.app/">here</a> to view my website portfolio, made with React & Node JS!
 </p>
@@ -22,8 +21,6 @@ I'm a junior full-stack developer with an entrepreneurial flair for creating eye
 <p align="center"> 
 Over the last few years, I have established wonderful jobs within finance. I thoroughly enjoyed working in this industry, and believe it taught me unparalelled levels of professionalism and fuelled my initial interest in technology. Since then, coding has opened my mind to how technology truly influences and alters every aspect of our lives. I'm throroughly excited to be part of where it goes next!
   </p>
-
----------------------------------------------
 
 |[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://blog.makersacademy.com/@lizzieturney"> <img src="./medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
