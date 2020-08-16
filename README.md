@@ -16,7 +16,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 ---------------------------------------------
 
-|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://blog.makersacademy.com/@lizzieturney"> <img src="./imgs/medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./imgs/github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./imgs/linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
+|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://blog.makersacademy.com/@lizzieturney"> <img src="./medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ------------------------------------------------------------------------------------
@@ -35,8 +35,8 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 |[MakersBnB](https://github.com/LTurns/makersBnB)<br>![makersBnB](https://github.com/LTurns/LTurns/blob/master/imgs/makers_bnb.png)|A clone of AirBnB, with similar functionalities|6|2 weeks|Ruby Sinatra, postgreSQL, Testing: Capybara, RSpec| Working with a great group of people!|
 |[Thermostat](https://github.com/LTurns/thermostat)<br>![thermostat](https://github.com/LTurns/LTurns/blob/master/imgs/thermostat.png)|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS, Testing: Jasmine| Getting to grips with AJAX and callbacks|
 |[Teacher Website](https://github.com/LTurns/teacher_website)<br>![teacherwebsite](https://github.com/LTurns/LTurns/blob/master/imgs/teacher_website.png)|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun| Incorporating third party code & completing a project for a client in this instance|
-|[Student List](https://github.com/LTurns/vue_student_list)<br>![studentdirectory](https://github.com/LTurns/LTurns/blob/master/img/student_directory.png)|Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|Learning VUE.JS framework!|
-|[Website Portfolio](https://github.com/LTurns/website_portfolio) [Deployed Site](https://lizzieportfolio.netlify.app/)<br>![portfolio](https://github.com/LTurns/LTurns/blob/master/img/portfolio.png)|Online portfolio with particles.js and CSS animation|1|1 week|React, Canvas HTML5|Incorporating animation and text-transitions with CSS|
+|[Student List](https://github.com/LTurns/vue_student_list)<br>![studentdirectory](https://github.com/LTurns/LTurns/blob/master/imgs/student_directory.png)|Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|Learning VUE.JS framework!|
+|[Website Portfolio](https://github.com/LTurns/website_portfolio) [Deployed Site](https://lizzieportfolio.netlify.app/)<br>![portfolio](https://github.com/LTurns/LTurns/blob/master/imgs/portfolio.png)|Online portfolio with particles.js and CSS animation|1|1 week|React, Canvas HTML5|Incorporating animation and text-transitions with CSS|
 
 
 <!-- ### Personal Projects ###
