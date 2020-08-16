@@ -5,8 +5,8 @@ I'm a junior full-stack developer with an entrepreneurial flair for creating eye
 
 <p align="center">Below is my most recent project - a responsive application where students can book time with a tutor to improve their English skills. To visit the site, please click <a href="https://eager-pasteur-1cdd5c.netlify.app/#contact">here</a></p>
 
-![title_website](https://github.com/LTurns/LTurns/blob/master/imgs/title_web.png = 250x)
-![title_website](https://github.com/LTurns/LTurns/blob/master/imgs/title_mobile.png)
+![title_website](https://github.com/LTurns/LTurns/blob/master/imgs/title_web.png =250x)
+![title_website](https://github.com/LTurns/LTurns/blob/master/imgs/title_mobile.png =250px)
 
 
 
