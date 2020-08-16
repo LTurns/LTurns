@@ -5,18 +5,13 @@ I'm a junior full-stack developer with an entrepreneurial flair for creating eye
 
 <p align="center">Below is my most recent project - a responsive application where students can book time with a tutor to improve their English skills. To visit the site, please click <a href="https://eager-pasteur-1cdd5c.netlify.app/#contact">here</a></p>
 
+|Web|Mobile|
+|:-:|:-:|
 
-| Web             |  Mobile |
-:-------------------------:|:-------------------------:
-
-|![title_website](https://github.com/LTurns/LTurns/blob/master/imgs/title_web.png)|
-![title_mobile](https://github.com/LTurns/LTurns/blob/master/imgs/title_mobile.png)|
-|![](https://github.com/LTurns/LTurns/blob/master/imgs/prices_web.png)|
-![](https://github.com/LTurns/LTurns/blob/master/imgs/prices_mobile.png)|
-|![](https://github.com/LTurns/LTurns/blob/master/imgs/contact_web.png)
-![](https://github.com/LTurns/LTurns/blob/master/imgs/contact_mobile.png)
-![](https://github.com/LTurns/LTurns/blob/master/imgs/about_web.png)
-![](https://github.com/LTurns/LTurns/blob/master/imgs/about_mobile.png)
+|![title_website](https://github.com/LTurns/LTurns/blob/master/imgs/title_web.png)|![title_mobile](https://github.com/LTurns/LTurns/blob/master/imgs/title_mobile.png)|
+|![](https://github.com/LTurns/LTurns/blob/master/imgs/prices_web.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/prices_mobile.png)|
+|![](https://github.com/LTurns/LTurns/blob/master/imgs/contact_web.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/contact_mobile.png)|
+|![](https://github.com/LTurns/LTurns/blob/master/imgs/about_web.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/about_mobile.png)|
 
 
   <p align="center">
