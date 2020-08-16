@@ -6,7 +6,7 @@ I'm a junior full-stack developer with an entrepreneurial flair for creating eye
   Please refer <a href="https://lizziecv.netlify.app/">here</a> to see my CV - made with Bootstrap, CSS and HTML. <br></br> Click <a href="https://lizzieportfolio.netlify.app/">here</a> to view my website portfolio, made with React & Node JS!
 </p>
 <div align="center">
-<img src="https://github.com/LTurns/LTurns/blob/master/new_border.png"/>
+<img src="https://github.com/LTurns/LTurns/blob/master/imgs/new_border.png"/>
 </div>
 
 
@@ -16,7 +16,7 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 ---------------------------------------------
 
-|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://blog.makersacademy.com/@lizzieturney"> <img src="./medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
+|[FAVOURITE PROJECTS](#chapter-1)|[SKILLS](#chapter-2)|<a href="https://blog.makersacademy.com/@lizzieturney"> <img src="./imgs/medium.png" alt="medium" hspace="20" height="42" width="42"></a>|<a href="https://github.com/LTurns"><img src="./imgs/github.png" alt="github" hspace="20" height="42" width="42"></a>| <a href="https://www.linkedin.com/in/lizzie-turney-b35548a1/"><img src="./imgs/linkedin.png" alt="linkedin" height="42" hspace="20" width="42"></a>|[EMPLOYMENT EXPERIENCE](#chapter-3)|[EDUCATION](#chapter-4)|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
 ------------------------------------------------------------------------------------
@@ -29,14 +29,14 @@ Over the last few years, I have established wonderful jobs within finance. I tho
 
 |Project|Summary|Team Size|Time|Tech Stack|Personal Highlights|
 |:-:|:-:|:-:|:-:|:-:|:-:|
-  |[Run Boris Run](https://github.com/LTurns/run_boris_run) [Deployed Site](https://run-boris-run.netlify.app/)<br> ![runborisrun](https://github.com/LTurns/LTurns/blob/master/run_boris_run.png)| Boris sets out to get milk, while facing the trials of lockdown and social distancing.|6|2 Weeks|Node, React, HTML5, Vanilla Javascript, Testing: Jest|Bringing this idea to life was a whirlwind of creativity!|
-|[Acebook](https://github.com/LTurns/Acebook)<br> ![acebook](https://github.com/LTurns/LTurns/blob/master/acebook.png)|A modern, minimalist facebook clone with similar capabilities.|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB, Testing: Cypress, Jest|Learning Node within 2 weeks & being part of a great team was wonderful.|
-|[Bowling Calculator](https://github.com/LTurns/bowling_challenge)<br> ![bowlingcalculator](https://github.com/LTurns/LTurns/blob/master/bowling_calculator.png)| An online calculator for keeping score of your bowling game.|1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation, Testing: Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY.| 
-|[MakersBnB](https://github.com/LTurns/makersBnB)<br>![makersBnB](https://github.com/LTurns/LTurns/blob/master/makers_bnb.png)|A clone of AirBnB, with similar functionalities|6|2 weeks|Ruby Sinatra, postgreSQL, Testing: Capybara, RSpec| Working with a great group of people!|
-|[Thermostat](https://github.com/LTurns/thermostat)<br>![thermostat](https://github.com/LTurns/LTurns/blob/master/thermostat.png)|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS, Testing: Jasmine| Getting to grips with AJAX and callbacks|
-|[Teacher Website](https://github.com/LTurns/teacher_website)<br>![teacherwebsite](https://github.com/LTurns/LTurns/blob/master/teacher_website.png)|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun| Incorporating third party code & completing a project for a client in this instance|
-|[Student List](https://github.com/LTurns/vue_student_list)<br>![studentdirectory](https://github.com/LTurns/LTurns/blob/master/student_directory.png)|Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|Learning VUE.JS framework!|
-|[Website Portfolio](https://github.com/LTurns/website_portfolio) [Deployed Site](https://lizzieportfolio.netlify.app/)<br>![portfolio](https://github.com/LTurns/LTurns/blob/master/portfolio.png)|Online portfolio with particles.js and CSS animation|1|1 week|React, Canvas HTML5|Incorporating animation and text-transitions with CSS|
+  |[Run Boris Run](https://github.com/LTurns/run_boris_run) [Deployed Site](https://run-boris-run.netlify.app/)<br> ![runborisrun](https://github.com/LTurns/LTurns/blob/master/imgs/run_boris_run.png)| Boris sets out to get milk, while facing the trials of lockdown and social distancing.|6|2 Weeks|Node, React, HTML5, Vanilla Javascript, Testing: Jest|Bringing this idea to life was a whirlwind of creativity!|
+|[Acebook](https://github.com/LTurns/Acebook)<br> ![acebook](https://github.com/LTurns/LTurns/blob/master/imgs/acebook.png)|A modern, minimalist facebook clone with similar capabilities.|4|2 Weeks|Node, React, Express, CSS/HTML, MongoDB, Testing: Cypress, Jest|Learning Node within 2 weeks & being part of a great team was wonderful.|
+|[Bowling Calculator](https://github.com/LTurns/bowling_challenge)<br> ![bowlingcalculator](https://github.com/LTurns/LTurns/blob/master/imgs/bowling_calculator.png)| An online calculator for keeping score of your bowling game.|1|4 days|Javascript, JQUERY, HTML, CSS, SVG animation, Testing: Jasmine|Loved experimenting with visuals and animation, especially SVG and JQUERY.| 
+|[MakersBnB](https://github.com/LTurns/makersBnB)<br>![makersBnB](https://github.com/LTurns/LTurns/blob/master/imgs/makers_bnb.png)|A clone of AirBnB, with similar functionalities|6|2 weeks|Ruby Sinatra, postgreSQL, Testing: Capybara, RSpec| Working with a great group of people!|
+|[Thermostat](https://github.com/LTurns/thermostat)<br>![thermostat](https://github.com/LTurns/LTurns/blob/master/imgs/thermostat.png)|An API-based app that takes a weather-forecast and adapts thermostat accordingly|1|1 week|Vanilla JS, Testing: Jasmine| Getting to grips with AJAX and callbacks|
+|[Teacher Website](https://github.com/LTurns/teacher_website)<br>![teacherwebsite](https://github.com/LTurns/LTurns/blob/master/imgs/teacher_website.png)|Contract project after Makers for friend|1|ongoing|MERN stack with third party Mailgun| Incorporating third party code & completing a project for a client in this instance|
+|[Student List](https://github.com/LTurns/vue_student_list)<br>![studentdirectory](https://github.com/LTurns/LTurns/blob/master/img/student_directory.png)|Directory with CRUD mechanism|1|1 day|MEVN stack - Vue.JS|Learning VUE.JS framework!|
+|[Website Portfolio](https://github.com/LTurns/website_portfolio) [Deployed Site](https://lizzieportfolio.netlify.app/)<br>![portfolio](https://github.com/LTurns/LTurns/blob/master/img/portfolio.png)|Online portfolio with particles.js and CSS animation|1|1 week|React, Canvas HTML5|Incorporating animation and text-transitions with CSS|
 
 
 <!-- ### Personal Projects ###
