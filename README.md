@@ -7,8 +7,8 @@ I'm a junior full-stack developer with an entrepreneurial flair for creating eye
 
 |Web|Mobile|
 |:-:|:-:|
-|![title_website](https://github.com/LTurns/LTurns/blob/master/imgs/title_web.png)|![title_mobile](https://github.com/LTurns/LTurns/blob/master/imgs/title_mobile.png)|
-|![](https://github.com/LTurns/LTurns/blob/master/imgs/prices_web.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/prices_mobile.png)|
+|![title_website](https://github.com/LTurns/LTurns/blob/master/imgs/title_web.png)|![title_mobile](https://github.com/LTurns/LTurns/blob/master/imgs/mobile_title.png)|
+|![](https://github.com/LTurns/LTurns/blob/master/imgs/web_prices.png)|![](https://github.com/LTurns/LTurns/blob/master/imgs/prices_mobile.png)|
 
 
   <p align="center">
