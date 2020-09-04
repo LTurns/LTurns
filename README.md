@@ -3,7 +3,7 @@
 <p align="center">
 I'm a junior full-stack developer with an entrepreneurial flair for creating eye-catching applications! I'm best described as a bubbly, carbonara-lover, who never falters from being optimistic. Friends and colleagues consider me to be a very strong communicator from my time in financial sales. I have experience in front-end, back-end, test-driven and database technologies, but lean towards front-end design due to the scope of creativity it allows. However, I enjoy all aspects of a full-stack codebase and embrace every opportunity to improve my skills. </p>
 
-<p>Below is a small taster of my most recent project - a client-led, responsive application where students can book time with a tutor to improve their English skills. This project was made with the MERN stack and incorporates a third party called Mailgun, enabling the client to see any queries he receives from the site. <br></br>To view the front-end code please refer <a href="https://github.com/LTurns/teacher_website">here</a> and to visit the site, please click <a href="https://vigorous-meninsky-2bdfe0.netlify.app/">here</a>.</p>
+<p>Below is a small taster of my most recent project - a client-led, responsive application where students can book time with a tutor to improve their English skills. This project was made with the MERN stack and incorporates a third party called Mailgun, enabling the client to see any queries he receives from the site. <br></br>To view the front-end code please refer <a href="https://github.com/LTurns/teacher_website">here</a> and to visit the site, please click <a href="https://www.englishmasterteacher.com">here</a>.</p>
 
 |Web|Mobile|
 |:-:|:-:|
